@@ -1,0 +1,341 @@
+= Duo Lingo notebook: Some sentences that attracted my attention
+Bob McColly(c) 2018 Heart of Diamond GmbH
+Version 0.1, 15.12.2018
+// Set Attributes
+:sectnums:
+:toc: left
+:toclevels: 4
+:toc-title: Contents
+:experimental:
+:description: Digital version of Pink & White COPYBOOK
+:keywords: english duo lingo
+:icons: font
+:source-highlighter: coderay
+// rouge coderay highlightjs prettify pigments
+:show-link-uri:
+
+This is a digital copy of a handwritten notebook.
+It contains some sentences which I'd like to be fluent of.
+
+
+== Free topic
+It happened _like this_...
+
+I want to go _for_ a walk.
+
+I _listen to_ the music.
+
+Put a _trash bag_ inside a bin, please.
+
+You have a few books. (malo knig)
+
+I _want you_ to open your eyes.
+
+_The time_ will come when you will be sorry for it.
+
+*Hope* is not a strategy.
+
+Find a convenient moment.
+
+Here are your keys.
+
+He usually goes to the park with his dog.
+
+During my youth.
+
+I _made_ my decision.
+
+What _did_ you do there?
+
+What _did_ you do today?
+
+We didn't show them our new flat.
+
+Fine. No complaints.
+
+It's a longtime since I saw you _last_.
+
+Did you have a good time _on the sea side_?
+
+He _took a look_ at the watch.
+
+I will _take a look_.
+
+Beware of vicious dogs!
+
+[subs=+quotes]
+// The "quotes" substitution enables inline formatting.
+----
+- _No way_. You're not leaving.
+- Really? And what _makes_ you think you can tell me what to do?
+- See? We need you. You may be a huge pain in _the_ ass, but you're smart.
+----
+
+Do not _ever_ call me again!
+
+He does _the_ opposite of what he has to do.
+
+He is always *won* _on account_ of been able to predict
+the situation correctly.
+
+I will _get_ a dog.
+
+I will _get used to_ it.
+
+I never go anywhere.
+
+
+== Photography
+I really like to _take pictures_ of _the_ sunset from my window.
+
+I like photography.
+
+== Clothes
+She _puts_ her coat on.
+
+She _gets_ dressed.
+
+She _puts on_ her cloths.
+
+== Health
+I am _taking care_ of my health.
+
+I believe more in _the_ diet than in drugs.
+
+You look rested and refreshed.
+
+[subs=+quotes]
+----
+- His brother in low is ill.
+- What disease does he have?
+- He is _very ill_ and he needs a lot of care.
+----
+
+== Running
+At what speed does he run?
+
+I run _on_ Thursdays.
+
+He warmly congratulated me *on* my first place.
+
+== Weather
+Lets go out now. _It_ isn't raining any more.
+
+I think _it_ is going to rain today.
+
+I do not know if _it_ is going to rain tomorrow.
+
+_It_ may rain this afternoon.
+
+
+== Excuses
+Can I be excused? Nature calls...
+
+== Food
+Do you start _the_ morning with coffee?
+
+Sometimes we eat fish _for_ dinner.
+
+== Family
+We _raise_ our children.
+
+He _looks a lot_ like you.
+
+== Internet
+You do not have access to the Internet.
+
+What are we doing _on_ the Internet?
+
+I think the message has _a virus_.
+
+He is always _on_ *the* Internet.
+
+== $$$
+How much does the meat cost?
+
+Can I pay by credit card?
+
+== Job
+_This advantage_ helps me _in_ my job.
+
+[subs=+quotes]
+----
+The bank I work _for_ isn't doing so well this year.
+Things are not so good at work.
+The company is loosing money.
+The situation is already bad and _it is getting_ worse.
+I am thinking of _giving up_ my job.
+I need (he needs) _to look for_ a job.
+----
+
+He offers me to work with him.
+
+_Take_ what he offers.
+
+== Greatings
+
+[verse]
+____
+Hey (Hi! Hello!), Hellen! ^casual^
+
+Morning, guys! ^gender_neutral^
+
+Hey, how are you? Good, how are you?
+It's good to see you! How've you been?
+
+Hey, Scooter. What's up?
+Hey, how's it going?
+
+What's up?
+Not much. What's up with you?
+
+Hey, Jonny, Teela! How you guys are doing today?
+Good. How are you?
+
+Hey, what's going on?
+Not much. How are you?
+I'm just hanging out. I hear it's your birthday today.
+It is, actually.
+Happy birthday, Rachel!
+Thank you!
+
+Hey, how are you doing?
+I'm not bad, thanks. What about you?
+
+How are you doing today?
+I'm pretty good (I'm all right.) How about you? What's news?
+
+How are you?
+Fabulous.
+As always!
+
+Hey, Aaron!
+Hey, how are you doing?
+Good, how are you?
+OK!
+
+____
+
+== Goodbye
+OK, see you next time! Bye!
+
+See you soon.
+
+Have a nice day!
+
+Until next week.
+
+See you later, bay.
+See you soon (pronounced `ya`), bay!
+
+== Responses to Thanks
+https://www.idioms.online/dont-mention-it/[Idioms Online]
+
+[verse]
+____
+- Thank you.
+- You're welcome.
+
+- Thank you very much.
+- I do very little. (Do little.)
+
+- Thanks for helping me move all that junk.
+- Don’t even mention it, but I could use a beer!
+
+- I appreciate your help in this matter.
+- Not at all. (Your thanks are not needed at all. I was glad to do it.)
+
+- Thanks of writing that letter of recommendation, Mr. Foster."
+- My pleasure. (The pleasure was all mine.)
+
+- Thanks so much!
+- It was my pleasure.
+
+- Thanks for lending me that ten dollars.
+- No problem. (No trouble. It was no trouble at all.) ^lack_warmth^
+
+- Thanks for picking me up for work.
+- No sweat. (It's no sweat) ^very_informal^
+
+- Thanks so much for helping me!
+- Forget it. (Forget it, not at all.) ^sounds_rude^
+
+- Thanks for your help earlier.
+- Sure. ^sounds_terse_and_detached^ *Terse* - abrupt and unfriendly.
+  (Sure, no problem. Sure, don't mention it. Sure, my pleasure.)
+
+- Thanks a million for fixing my car again.
+- Sure, no problem at all.
+
+- Thank you very much! (some one is being too apologetic for having trobled you)
+- That's all right. (It's all right. That's OK. It's OK) ^very_informal^
+____
+
+== Useful Telphone Phrases
+=== Making Contact
+I'd like to speak to ...
+
+I'm calling from ...
+
+I'm calling on behalf of ...
+
+=== Taking a call
+How can I help you?
+
+Where are you calling from?
+
+== Perfect
+I _already have drunk_ a cup of tea at home.
+
+She _has lost_ her phone.
+
+We _have had_ a lot of problems.
+
+No one _has ever called_ me *that*.
+
+What _have you brought_ *us*?
+
+To _have been able_. (S'umet).
+To _be_ able. (Umet).
+
+== ing
+Can't help doing. (Nichego ne mogu s soboy podelat chtoby...)
+
+Couldn't help drinking. (Ne mog ne vypit)
+
+End up + VERB-ing (zakonchite tem chto budete...)
+
+== Confusing eng
+Is *there* a telephone *here*?
+
+== Proverbs
+Beware the fury of a patient one.
+
+Sammy loves apple pies even more than his wife Sally.
+
+Analysis - paralysis. Go for it!
+
+== Tables
+|===
+|Will we be allowed to come to this party? | We will be allowed to come to this
+party. | We won't be allowed to come to this party.
+|May we come to his party? | We may come to this party. | We may not come to his
+party.
+|Might we come to his party? | We might come to his party | We might not come to
+his party.
+|===
+
+|===
+|Will you be able to help me? | You will be able to help me. | You won't be able
+to help me.
+|Can you help me? | You can help me. | You can't help me.
+|Could you help me? | You could help me (I was able to ...) | You couldn't help
+me
+|===
+
+|===
+|Will I have to work hard? | He will have to work hard. | He won't have to work
+hard.
+|Must he work hard? | He must work hard. | He mustn't work hard.
+|Did he have to work hard? | He had to work hard. | He didn't have to work hard.
+|===
