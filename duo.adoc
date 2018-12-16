@@ -1,5 +1,5 @@
 = Duo Lingo notebook: Some sentences that attracted my attention
-Bob McColly(c) 2018 Heart of Diamond GmbH
+Bob McColly (C) 2018 Heart of Diamond GmbH
 Version 0.1, 15.12.2018
 // Set Attributes
 :sectnums:
@@ -7,7 +7,7 @@ Version 0.1, 15.12.2018
 :toclevels: 4
 :toc-title: Contents
 :experimental:
-:description: Digital version of Pink & White COPYBOOK
+:description: Digital version of ESET NOTEBOOK
 :keywords: english duo lingo
 :icons: font
 :source-highlighter: coderay
@@ -23,13 +23,43 @@ It happened _like this_...
 
 I want to go _for_ a walk.
 
+He _goes_ for a walk with his dog every morning.
+
+She is talking to _the_ dog.
+
+I went up. (Ia shel naverkh).
+
 I _listen to_ the music.
 
 Put a _trash bag_ inside a bin, please.
 
+The exit is _to the right_.
+
+He is afraid of his shadow.
+
 You have a few books. (malo knig)
 
+He is sleeping _on_ a chair.
+
+He is _a_ great person.
+
 I _want you_ to open your eyes.
+
+I fail to remember her name.
+
+She speaks to herself
+
+They never pay any attention _to_ me.
+
+Where is the entrance to the museum?
+
+He is a student currently still living with his parents.
+
+He is a man of action.
+
+Now and then. (Vremia ot vremeni).
+
+We have an appointment with him tomorrow.
 
 _The time_ will come when you will be sorry for it.
 
@@ -43,6 +73,14 @@ He usually goes to the park with his dog.
 
 During my youth.
 
+She _does not_ affect me.
+
+Which _one_ is my screen?
+
+I am not tired _at all_.
+
+Where _is_ everybody else?
+
 I _made_ my decision.
 
 What _did_ you do there?
@@ -51,11 +89,19 @@ What _did_ you do today?
 
 We didn't show them our new flat.
 
+Did you have a good time _on the sea side_?
+
+Hi _did not_ talk to me. (On ne razgovarival so mnoy)
+
 Fine. No complaints.
 
 It's a longtime since I saw you _last_.
 
-Did you have a good time _on the sea side_?
+She searches them. (Ona ob'yskivaet ih).
+
+To search the house. (Obyskat dom).
+
+To search for the house. (Iskat dom).
 
 He _took a look_ at the watch.
 
@@ -84,11 +130,22 @@ I will _get used to_ it.
 
 I never go anywhere.
 
-
 == Photography
 I really like to _take pictures_ of _the_ sunset from my window.
 
 I like photography.
+
+== Study
+How are your _studies_ going?
+
+You'll be looking at somwhere around fifteen thousand US dollars per semester.
+
+She was _taking_ the girl to school by car.
+
+She walks to school. (Ona hodit v shkolu peshkom).
+
+== Transportation
+I am getting off _at_ the next station.
 
 == Clothes
 She _puts_ her coat on.
@@ -112,6 +169,12 @@ You look rested and refreshed.
 ----
 
 == Running
+Doctors agree that running is good for health.
+
+I neither walk nor run.
+
+We run _through_ the fields. (My bezhim po poliam).
+
 At what speed does he run?
 
 I run _on_ Thursdays.
@@ -127,21 +190,47 @@ I do not know if _it_ is going to rain tomorrow.
 
 _It_ may rain this afternoon.
 
+It has stopped _raining_.
+
+It is _raining_ again.
+
+_In_ November there is rain. (V noiabre - dozhd).
+
+Yes, it rains.
+
+Is it _still_ raining?
 
 == Excuses
 Can I be excused? Nature calls...
 
 == Food
+_Have_ you _ordered_ lunch yet? (Vy uzhe zakazali obed?)
+
+The price of dinner is not including the wine.
+
 Do you start _the_ morning with coffee?
 
 Sometimes we eat fish _for_ dinner.
+
+[verse]
+____
+- Hey, Julie, you want to go grab something to eat?
+- Sure!
+- What do you _feel like having_?
+- I really _feel like having_ a big juicy steak!
+____
+
 
 == Family
 We _raise_ our children.
 
 He _looks a lot_ like you.
 
+Do they _come_ from a musical family?
+
 == Internet
+We live in the age of technology.
+
 You do not have access to the Internet.
 
 What are we doing _on_ the Internet?
@@ -150,12 +239,27 @@ I think the message has _a virus_.
 
 He is always _on_ *the* Internet.
 
-== $$$
-How much does the meat cost?
+They found it by searching online.
+
+== Money
+How much _does_ the meat cost?
+
+I want to know how much it costs.
+
+How much _is_ my coat _worth_?
 
 Can I pay by credit card?
 
+Pay attention _to_ your wallet!
+
+== Toast
+Here's to being invincible!
+
+To your health!
+
 == Job
+He is an able man. (On sposobnyi chelovek.)
+
 _This advantage_ helps me _in_ my job.
 
 [subs=+quotes]
@@ -172,6 +276,13 @@ He offers me to work with him.
 
 _Take_ what he offers.
 
+His work continues.
+
+I had to find myself again. (Ia dolzhen byl naiti sebia snova).
+
+It is a goog start but we still have a lot of work to do.
+
+
 == Greatings
 
 [verse]
@@ -182,6 +293,8 @@ Morning, guys! ^gender_neutral^
 
 Hey, how are you? Good, how are you?
 It's good to see you! How've you been?
+
+Seeing you _makes_ me happy.
 
 Hey, Scooter. What's up?
 Hey, how's it going?
@@ -272,6 +385,8 @@ ____
 ____
 
 == Useful Telphone Phrases
+He is talking on the telephone.
+
 === Making Contact
 I'd like to speak to ...
 
@@ -285,11 +400,19 @@ How can I help you?
 Where are you calling from?
 
 == Perfect
+The time has finally come.
+
 I _already have drunk_ a cup of tea at home.
+
+He _had just eaten_. (On tolko chto poel).
 
 She _has lost_ her phone.
 
+She _had known_ him last month. (Ona uzhe znala ego v proshlom mesiatse).
+
 We _have had_ a lot of problems.
+
+Have you written this number?
 
 No one _has ever called_ me *that*.
 
@@ -297,6 +420,30 @@ What _have you brought_ *us*?
 
 To _have been able_. (S'umet).
 To _be_ able. (Umet).
+
+Have you understood, haven't you?
+
+Have you been _to_ his house? (Ty byl v ego dome?)
+
+Where have you been?
+
+As we thought, she _had gone_ abroad.
+
+He _had not_ *known* what to do. (On esche ne znal chto delat).
+
+I _have come_ to speak with you. (Ia prishel pogovorit s toboy.)
+
+She _has taken_ a green apple.
+
+He _has felt_ tired. (On pochuvstvoval sebia ustalym.)
+
+The plane _had already taken off_ when I _reached_ the airport.
+
+He has told me. (On rasskazal mne.)
+
+He has changed. (On izmenilsia.)
+
+
 
 == ing
 Can't help doing. (Nichego ne mogu s soboy podelat chtoby...)
@@ -308,12 +455,23 @@ End up + VERB-ing (zakonchite tem chto budete...)
 == Confusing eng
 Is *there* a telephone *here*?
 
+What did you want to talk to me about?
+
+_These_ pants are _in style_. (Eti bruki v mode).
+
 == Proverbs
 Beware the fury of a patient one.
 
 Sammy loves apple pies even more than his wife Sally.
 
 Analysis - paralysis. Go for it!
+
+Respect is not free.
+
+I _feel like_ seeing the city. (Mne hochetsia uvidet etot gorod.)
+
+== Human descriptions
+My wife cooks well.
 
 == Tables
 |===
@@ -339,3 +497,45 @@ hard.
 |Must he work hard? | He must work hard. | He mustn't work hard.
 |Did he have to work hard? | He had to work hard. | He didn't have to work hard.
 |===
+
+== Happiness
+https://youtu.be/eCC3-JI8cKk[Jordan Peterson's MOST EPIC SPEECH - (Video Edit)
+on YouTube]
+
+Some people will tell you that purpose of the life is to be
+happy. Happiness is something that is _done in_ by the first harsh
+blow that reality deals you.
+
+There are many circumstances in life where
+happiness is not only the wrong response, but also where the expectation of
+happiness as a response will put you absolutely the wrong psychological state to
+be prepared for what must be done.
+
+People are built, so to speak, to experience
+a very wide range of motivational and emotional states. So, there is a time to
+be compassionate, and there is a time to be aggressive, and there is a time to be
+in pain, and there's a time go be anxious, and there's a time to be joyous, and
+the time to be satisfied. The healthy and well adopted person has a very wide
+range of finally differentiated responses which cannot be boiled down to a
+single dimension, say _happiness_ vs _unhappiness_.
+
+Life is not that simple, life is
+complex and tragic and difficult. The problem with the public portrayal of the
+ideal state of human as the happiness is that it makes all of these people feel
+ashamed of their own suffering. They feel that if they are suffering and if they
+find their life tragic in its essence than that means that there is something wrong
+with them. And instantly that makes it impossible for them to communicate
+anything real about their own tragedy.
+
+If you are constantly in the state of
+satisfaction and happiness then nothing is going to affect you deeply enough.
+So that you'll become deep, and life without depth is by definition shallow and
+meaningless, because what it does is broaden and deepen your life in a manner
+that you might compare to the difference between elevator music and a
+Beethoven symphony. It's not that the symphony is in any sense happier than the
+_muzak_, in fact quite a contrary, but it's deeper and more profound, and richer,
+and incorporates more, and justifies itself more.
+
+And that's the right metaphor
+for life, not happiness, but depth and differentiated quality, profundity to
+match the profundity and the necessity of suffering.
