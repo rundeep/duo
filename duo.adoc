@@ -8,11 +8,14 @@ Version 0.1, 15.12.2018
 :toc-title: Contents
 :experimental:
 :description: Digital version of ESET NOTEBOOK
-:keywords: english duo lingo
+:keywords: English duo lingo
 :icons: font
 :source-highlighter: coderay
-// rouge coderay highlightjs prettify pigments
+// rouge coderay highlights prettify pigments
 :show-link-uri:
+
+// If the entire sentence is parenthetical, then you put the punctuation inside
+// the parenthesis.
 
 This is a digital copy of a handwritten notebook.
 It contains some sentences which I'd like to be fluent of.
@@ -23,7 +26,7 @@ It happened _like this_...
 
 She is talking to _the_ dog.
 
-I went up. (Ia shel naverkh).
+I went up. (Я шел наверх.)
 
 I _listen to_ the music.
 
@@ -39,11 +42,11 @@ He is afraid of his shadow.
 
 I was thinking the same thing.
 
-What does she feel? (Chto ona chuvstvuet?)
+What does she feel? (Что она чувствует?)
 
-Who is _comming_ with me? (Kto idet so mnoy?)
+Who is _coming_ with me? (Кто идет со мной?)
 
-You have a few books. (malo knig)
+You have a few books. (У тебя мало книг.)
 
 He is sleeping _on_ a chair.
 
@@ -69,7 +72,15 @@ I fail to remember her name.
 
 I am _getting off_ *at* the next station.
 
-I am _getting up_! (Ia vstayu.)
+When will the delivery arrive?
+
+We gotta get out of here.
+
+I do not like his actions.
+
+We need _to take_ action. (Нам надо действовать.)
+
+I am _getting up_! (Я встаю!)
 
 She speaks to herself
 
@@ -77,9 +88,16 @@ We like expressions of love.
 
 It is necessary to choose.
 
+----
+- Did they get it?
+- No.
+- Have you got it?
+- No.
+----
+
 She does not have _a_ personality.
 
-When does it close? (Kogda ono zakryvaetsia?)
+When does it close? (Когда оно закрывается?)
 
 The conversation is over!
 
@@ -87,9 +105,28 @@ My day was full of surprises.
 
 There is no doubt.
 
+Why *are* you always late? (_late_ - adj.)
+
+I work _on_ the engine. (Я работаю над этим двигателем.)
+
+I am no longer a King Of The Hill.
+
+She reached her objective. (Она достигла своей цели.)
+
+My daughter wishes for a horse. (Моя дочь желает лошадь.)
+
+----
+- You okay?
+- Never better. It's just another day in a fleet.
+----
+
+Take what he offers.
+
+There was a very famous battle _here_.
+
 We went to my house.
 
-I _went up_. (Ia shel naverkh.)
+I _went up_. (Я шел наверх.)
 
 I do not have _any_ doubts.
 
@@ -99,23 +136,23 @@ They are making a mistake again.
 
 It was a total failure.
 
-I have to feel it. (Ia dolzhen pochuvstvovat eto.)
+I have to feel it. (Я должен почувствовать это.)
 
 It is a matter of time.
 
-I am little tired thats it.
+I am little tired that's it.
 
-They came with me. (Oni prishli so mnoy.)
+They came with me. (Они пришли со мной.)
 
-He wishes me well. (On zhelaet mne dobra.)
+He wishes me well. (Он желает мне добра.)
 
 The door opens to the inside.
 
 Do not look _at_ me!
 
-Did something happen? (Chtoto sluchilos?)
+Did something happen? (Что-то случилось?)
 
-She _felt_ well. (Ona chuvstvovala sebia khorosho.)
+She _felt_ well. (Она чувствовала себя хорошо.)
 
 They never pay any attention _to_ me.
 
@@ -125,7 +162,7 @@ He is a student currently still living with his parents.
 
 He is a man of action.
 
-Now and then. (Vremia ot vremeni).
+Now and then. (Время от времени.)
 
 We have an appointment with him tomorrow.
 
@@ -159,21 +196,21 @@ We didn't show them our new flat.
 
 Did you have a good time _on the sea side_?
 
-Hi _did not_ talk to me. (On ne razgovarival so mnoy)
+Hi _did not_ talk to me. (Он не разговаривал со мной.)
 
 Fine. No complaints.
 
 It's a longtime since I saw you _last_.
 
-She searches them. (Ona ob'yskivaet ih).
+She searches them. (Она обыскивает их.)
 
-To search the house. (Obyskat dom).
+To search the house. (Обыскать дом.)
 
-To search for the house. (Iskat dom).
+To search for the house. (Искать дом.)
 
 He _took a look_ at the watch.
 
-I will _take a look_. (Ia posmotriu.)
+I will _take a look_. (Я посмотрю.)
 
 Beware of vicious dogs!
 
@@ -213,11 +250,11 @@ I need to learn.
 
 How are your _studies_ going?
 
-You'll be looking at somwhere around fifteen thousand US dollars per semester.
+You'll be looking at somewhere around fifteen thousand US dollars per semester.
 
 She was _taking_ the girl to school by car.
 
-She walks to school. (Ona hodit v shkolu peshkom).
+She walks to school. (Она ходит в школу пешком.)
 
 == Transportation
 I am getting off _at_ the next station.
@@ -244,6 +281,8 @@ I am _taking care_ of my health.
 
 I believe more in _the_ diet than in drugs.
 
+She felt well. (Она чувствовала _себя_ хорошо.)
+
 I left my tennis racket _on_ the train.
 
 You look rested and refreshed.
@@ -262,7 +301,7 @@ Doctors agree that running is good for health.
 
 I neither walk nor run.
 
-We run _through_ the fields. (My bezhim po poliam).
+We run _through_ the fields. (Мы бежим по полям.)
 
 At what speed does he run?
 
@@ -276,6 +315,8 @@ He _goes_ for a walk with his dog every morning.
 
 I am _walking by_ your house.
 
+A map of the city always helps.
+
 === Medicine
 
 I have a weak sight.
@@ -286,7 +327,7 @@ The brain is in the head.
 
 I had an accident on the *job*.
 
-I think I took good care of it. ( Ia dumayu Ia ob etom khorosho pozabotilsia.)
+I think I took good care of it. ( Я думаю я об этом хорошо позаботился.)
 
 My back is _in pain_.
 
@@ -308,11 +349,13 @@ It has stopped _raining_.
 
 It is _raining_ again.
 
-_In_ November there is rain. (V noiabre - dozhd).
+_In_ November there is rain. (В ноябре - дождь.)
 
 Yes, it rains.
 
 Is it _still_ raining?
+
+It rained all day. (Дождь шел весь день.)
 
 == Excuses
 Can I be excused? Nature calls...
@@ -323,7 +366,7 @@ Excuse me, I have to use the facilities.
 
 A fork _fell off_ the table.
 
-_Have_ you _ordered_ lunch yet? (Vy uzhe zakazali obed?)
+_Have_ you _ordered_ lunch yet? (Вы уже заказали обед?)
 
 I recently ate chicken.
 
@@ -386,7 +429,9 @@ Can I pay by credit card?
 
 Pay attention _to_ your wallet!
 
-HOw much do you ask for this?
+How much do you ask for this?
+
+What do I _get out_ of it?
 
 == Toast
 Here's to being invincible!
@@ -394,7 +439,7 @@ Here's to being invincible!
 To your health!
 
 == Job
-He is an able man. (On sposobnyi chelovek.)
+He is an able man. (Он способный человек.)
 
 _This advantage_ helps me _in_ my job.
 
@@ -422,22 +467,26 @@ _Take_ what he offers.
 
 His work continues.
 
-I had to find myself again. (Ia dolzhen byl naiti sebia snova).
+I had to find myself again. (Я должен был найти себя снова.)
 
 It is a good start but we still have a lot of work to do.
 
 I need to look for a job.
 
+== Subordination
+
+Excuse me, commander. Will you have a minute of your time?
+
 == Greetings
 
 [verse]
 ____
-Hey (Hi! Hello!), Hellen! ^casual^
+Hey (Hi! Hello!), Helen! ^casual^
 
 Morning, guys! ^gender_neutral^
 
 Hey, how are you? Good, how are you?
-It's good to see you! How've you been?
+It's good to see you! How have you been?
 
 Seeing you _makes_ me happy.
 
@@ -447,7 +496,7 @@ Hey, how's it going?
 What's up?
 Not much. What's up with you?
 
-Hey, Jonny, Teela! How you guys are doing today?
+Hey, Johnny, Teela! How you guys are doing today?
 Good. How are you?
 
 Hey, what's going on?
@@ -534,11 +583,11 @@ ____
 - Thanks a million for fixing my car again.
 - Sure, no problem at all.
 
-- Thank you very much! (some one is being too apologetic for having trobled you)
+- Thank you very much! (some one is being too apologetic for having troubled you)
 - That's all right. (It's all right. That's OK. It's OK) ^very_informal^
 ____
 
-== Useful Telphone Phrases
+== Useful Telephone Phrases
 He is talking on the telephone.
 
 === Making Contact
@@ -559,17 +608,18 @@ He is talking on the phone.
 
 I have been waiting for you.
 
-By then, they had already led the children. (K tomu vremeni oni uzhe priveli etikh detei.)
+By then, they had already led the children. (К тому времени они уже привели этих
+детей.)
 
 The time has finally come.
 
 I _already have drunk_ a cup of tea at home.
 
-He _had just eaten_. (On tolko chto poel).
+He _had just eaten_. (Он только что поел.)
 
 She _has lost_ her phone.
 
-She _had known_ him last month. (Ona uzhe znala ego v proshlom mesiatse).
+She _had known_ him last month. (Она уже знала его в прошлом месяце.)
 
 We _have had_ a lot of problems.
 
@@ -579,9 +629,9 @@ He has been sleeping like a baby.
 
 We have never been friends.
 
-Where _has_ she been? (Gde ona byla?)
+Where _has_ she been? (Где она была?)
 
-He sleeps after he has drunk. (On spit posle togo kak on vypil.)
+He sleeps after he has drunk. (Он спит после того как он выпил.)
 
 You have never cooked soup for me.
 
@@ -593,43 +643,43 @@ It was a name that I had never heard before.
 
 What _have you brought_ *us*?
 
-To _have been able_. (S'umet).
-To _be_ able. (Umet).
+To _have been able_. (Суметь.)
+To _be_ able. (Уметь.)
 
 Have you understood, haven't you?
 
-Have you been _to_ his house? (Ty byl v ego dome?)
+Have you been _to_ his house? (Ты был в его доме?)
 
 Where have you been?
 
 As we thought, she _had gone_ abroad.
 
-He _had not_ *known* what to do. (On esche ne znal chto delat).
+He _had not_ *known* what to do. (Он еще не знал что делать.)
 
-I _have come_ to speak with you. (Ia prishel pogovorit s toboy.)
+I _have come_ to speak with you. (Я пришел поговорить с тобой.)
 
 She _has taken_ a green apple.
 
-He _has felt_ tired. (On pochuvstvoval sebia ustalym.)
+He _has felt_ tired. (Он почувствовал себя усталым.)
 
 The plane _had already taken off_ when I _reached_ the airport.
 
-He has told me. (On rasskazal mne.)
+He has told me. (Он рассказал мне.)
 
-He has changed. (On izmenilsia.)
+He has changed. (Он изменился.)
 
 
 
-== ing
-Can't help doing. (Nichego ne mogu s soboy podelat chtoby...)
+== ING
+Can't help doing. (Ничего не могу с собой поделать чтобы...)
 
-Couldn't help drinking. (Ne mog ne vypit)
+Couldn't help drinking. (Не мог не выпить.)
 
-End up + VERB-ing (zakonchite tem chto budete...)
+End up + VERB-ING (Закончите тем что будете...)
 
-== Confusing eng
+== Confusing English
 
-_I will_ then add them here. (Ia togda dobavliu ih syuda.)
+_I will_ then add them here. (Я тогда добавлю их сюда.)
 
 I _feel like seeing_ the city.
 
@@ -637,11 +687,14 @@ We are going to read more books than *him*.
 
 Is *there* a telephone *here*?
 
+The _boyfriend_ and _girlfriend_ walked along the beach. (Парень и девушка
+гуляли вдоль пляжа.)
+
 Is *there* a zoo in the city?
 
 What did you want to talk to me about?
 
-_These_ pants are _in style_. (Eti bruki v mode).
+_These_ pants are _in style_. (Эти брюки в моде.)
 
 She wants him to tell her the truth.
 
@@ -654,7 +707,7 @@ Analysis - paralysis. Go for it!
 
 Respect is not free.
 
-I _feel like_ seeing the city. (Mne hochetsia uvidet etot gorod.)
+I _feel like_ seeing the city. (Мне хочется увидеть этот город.)
 
 == Human descriptions
 My wife cooks well.
@@ -708,6 +761,14 @@ ____
 ____
 It is impossible to live without failing at something unless you
 live so cautiously that you might as well not have lived at all.
+____
+
+.IT guy.
+[#guy]
+[quote, Jeremy Cioara, ICND1.[26/38]26 - Routing - Implementing - Static Routing - 00:01:15]
+____
+If some one would ask me a question: "Jeremy, what do you do?", I would respond
+and I'd say "I'm an IT guy: that's what I do." Is that a complete answer? No!
 ____
 
 
